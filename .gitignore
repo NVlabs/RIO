@@ -1,0 +1,9 @@
+.vscode/
+*~
+*.pdf
+*.so
+*.png
+*pycache_*
+*.DS_STORE
+*datasets/coco
+
